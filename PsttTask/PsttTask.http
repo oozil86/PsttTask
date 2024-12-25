@@ -1,0 +1,6 @@
+@PsttTask_HostAddress = http://localhost:5153
+
+GET {{PsttTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
